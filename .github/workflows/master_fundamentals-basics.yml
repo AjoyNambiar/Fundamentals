@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'fundamentals-basics'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1D545B05966141B8B8C90E77513C7E03 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F4C1FA2BA7234148ACD210C2F5F6CE08 }}
